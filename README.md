@@ -1,8 +1,8 @@
 # Introduction to Git and GitHub
 
-## Simple Interest Calculator
+## Interest Calculator
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+A calculator that calculates simple and compound interest given principal, annual rate of interest and time period in years.
 
 ```
 Input:
